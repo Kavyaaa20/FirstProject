@@ -1,8 +1,12 @@
-The demonstaration is working , 
+The demonstaration is working , new updated
 Learning Git Tutorials
+
 Topics Covered:
 1.init
 2.repo
 3.clone
 4.push
 5.pull
+
+Learning is fun 
+
