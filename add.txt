@@ -9,4 +9,4 @@ Topics Covered:
 5.pull
 
 Learning is fun 
-
+New Terminal 
