@@ -1,2 +1,8 @@
 The demonstaration is working , 
 Learning Git Tutorials
+Topics Covered:
+1.init
+2.repo
+3.clone
+4.push
+5.pull
